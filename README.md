@@ -1,42 +1,31 @@
 <h1 align="left">Hey There 👋 What's up?</h1>
 
-###
+<p align="left">
+  👨‍🎓 My name is João Victor and I'm a 19 year old student from Brazil studying Information Systems.<br><br>
+  🚀 My goal is to get in Web Development area.<br><br>
+  👨‍💻 I'm chasing for my first oportunity to work with web development!
+</p>
 
-<h2 align="left">About</h2>
-
-###
-
-<p align="left">💻 As an <strong>Information Systems</strong> student at <strong>CESMAC</strong>, I am a developer focused on creating modern, responsive, and functional web interfaces through practical and academic projects.<br><br>🚀 I enjoy exploring web technologies and crafting intuitive user experiences, focusing on writing clear, efficient, and maintainable code that works seamlessly across different devices.<br><br>📚 Currently, I am deepening my knowledge in UI/UX best practices alongside core computer science foundations—such as object-oriented programming, data structures, and database systems—to build complete and scalable web applications.<br><br>🌱 I strongly believe in continuous learning and am always looking for opportunities to grow as a developer and expand my portfolio.<br><br>🌍 Outside of coding, I enjoy keeping up with web design and technology trends, studying English, and exploring topics that help me grow both personally and professionally.</p>
-
-###
-
-<h2 align="left">Techs</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</div>
+<p align="left">
+  💻 As an <strong>Information Systems</strong> student at <strong>CESMAC</strong>, I am a developer focused on creating modern, responsive, and functional web interfaces through practical and academic projects.<br><br>
+  🚀 I enjoy exploring web technologies and crafting intuitive user experiences, focusing on writing clear, efficient, and maintainable code that works seamlessly across different devices.<br><br>
+  📚 Currently, I am deepening my knowledge in UI/UX best practices alongside core computer science foundations—such as object-oriented programming, data structures, and database systems—to build complete and scalable web applications.<br><br>
+  🌱 I strongly believe in continuous learning and am always looking for opportunities to grow as a developer and expand my portfolio.<br><br>
+  🌍 Outside of coding, I enjoy keeping up with web design and technology trends, studying English, and exploring topics that help me grow both personally and professionally.</p>
+
+###
+
+<h2 align="left">Technologies & Tools</h2>
+
+###
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,nodejs,postgresql,python,java,git,github,ai" alt="My Tech Stack" />
+</p>
 
 ###
 
@@ -52,19 +41,14 @@
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Contact with me</h2>
 
 ###
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/joao-victor-araujo-coelho/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/joao.coelho21/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" title="Instagram">
-  </a>
-  <a href="mailto:joaovictoracoelho123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/joaovictoracoelho123@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail">
-  </a>
+  <a href="mailto:joaovictoracoelho123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/joaovictoracoelho123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"></a>
+  <a href="https://www.linkedin.com/in/joao-victor-araujo-coelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn"></a> 
+  <a href="https://www.instagram.com/_williamulisses/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" title="Instagram"></a>
 </div>
 
 ###
