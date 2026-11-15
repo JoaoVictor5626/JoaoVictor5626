@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" title="Instagram">
   </a>
   <a href="mailto:joaovictoracoelho123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/viniciusaccoelho123@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail">
+    <img src="https://img.shields.io/badge/joaovictoracoelho123@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail">
   </a>
 </div>
 
