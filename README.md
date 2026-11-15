@@ -45,9 +45,9 @@
 ###
 
 <p align="left">
-  🍔 <strong><a href="https://github.com/JoaoVictor5626/herosfoodmcz" target="_blank">Heros Food Mcz</a></strong> — Responsive landing page for a local burger shop in Maceió-AL, built with HTML5, CSS3, and Vanilla JavaScript as part of CESMAC's <em>Impulso Web</em> extension project.<br><br>
+  🍔 <strong><a href="https://github.com/JoaoVictor5626/herosfoodmcz" target="_blank">Heros Food Mcz</a></strong> (<a href="https://herosfoodmcz.vercel.app/" target="_blank">Live Site 🔗</a>) — Responsive landing page for a local burger shop in Maceió-AL, built with HTML5, CSS3, and Vanilla JavaScript as part of CESMAC's <em>Impulso Web</em> extension project.<br><br>
   ♿ <strong><a href="https://github.com/JoaoVictor5626/sistema-de-apoio-e-acessibilidade" target="_blank">Sistema de Apoio e Acessibilidade</a></strong> — Web system focused on digital inclusion, providing adapted resources and information for different accessibility needs. Built with Node.js, Express, EJS, and MongoDB.<br><br>
-  🎓 <strong><a href="https://github.com/JoaoVictor5626/pojae" target="_blank">POJAE</a></strong> — Internship and Young Apprentice Opportunity Platform developed for CESMAC, integrating Software Engineering practices with a Java backend and HTML/Tailwind CSS frontend to connect students with companies.
+  🎓 <strong><a href="https://github.com/JoaoVictor5626/pojae" target="_blank">POJAE</a></strong> — Internship and Young Apprentice Opportunity Platform developed for CESMAC, integrating Software Engineering practices with a Java backend and HTML, Tailwind CSS, and JavaScript frontend to connect students with companies.
 </p>
 
 ###
