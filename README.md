@@ -1,9 +1,9 @@
 <h1 align="left">Hey There 👋 What's up?</h1>
 
 <p align="left">
-  👨‍🎓 My name is João Victor and I'm a 19 year old student from Brazil studying Information Systems.<br><br>
-  🚀 My goal is to get in Web Development area.<br><br>
-  👨‍💻 I'm chasing for my first oportunity to work with web development!
+  👨‍🎓 My name is João Victor, I'm a 19-year-old developer from Brazil.<br><br>
+  🚀 My goal is to build a career in Web Development.<br><br>
+  👨‍💻 Currently looking for my first opportunity as a Web / Full-Stack Developer!
 </p>
 
 <h2 align="left">About me</h2>
@@ -15,7 +15,8 @@
   🚀 I enjoy exploring web technologies and crafting intuitive user experiences, focusing on writing clear, efficient, and maintainable code that works seamlessly across different devices.<br><br>
   📚 Currently, I am deepening my knowledge in UI/UX best practices alongside core computer science foundations—such as object-oriented programming, data structures, and database systems—to build complete and scalable web applications.<br><br>
   🌱 I strongly believe in continuous learning and am always looking for opportunities to grow as a developer and expand my portfolio.<br><br>
-  🌍 Outside of coding, I enjoy keeping up with web design and technology trends, studying English, and exploring topics that help me grow both personally and professionally.</p>
+  🌍 Outside of coding, I enjoy keeping up with web design and technology trends, studying English, and exploring topics that help me grow both personally and professionally.
+</p>
 
 ###
 
@@ -24,7 +25,7 @@
 ###
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,nodejs,postgresql,python,java,git,github,ai" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,nodejs,postgresql,python,java,git,github" alt="My Tech Stack" />
 </p>
 
 ###
@@ -41,14 +42,14 @@
 
 ###
 
-<h2 align="left">Contact with me</h2>
+<h2 align="left">Contact me</h2>
 
 ###
 
 <div align="left">
   <a href="mailto:joaovictoracoelho123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/joaovictoracoelho123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"></a>
   <a href="https://www.linkedin.com/in/joao-victor-araujo-coelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn"></a> 
-  <a href="https://www.instagram.com/_williamulisses/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" title="Instagram"></a>
+  <a href="https://www.instagram.com/joao.coelho21/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" title="Instagram"></a>
 </div>
 
 ###
