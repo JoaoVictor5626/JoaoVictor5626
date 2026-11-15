@@ -57,7 +57,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/JoaoVictor5626/JoaoVictor5626/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/JoaoVictor5626/JoaoVictor5626/snake-output/snake-dark.svg" alt="Snake animation" />
 
 ###
 
