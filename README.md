@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 As an Information Systems student (4th semester) at <strong>CESMAC</strong>, I am developing my skills in programming and software development by building practical and academic projects.<br><br>🚀 I enjoy exploring different technologies and continuously improving my problem-solving abilities, focusing on writing clear, efficient, and maintainable code.<br><br>📚 Currently, I am deepening my knowledge in areas such as object-oriented programming, data structures, and database systems to strengthen my technical foundation.<br><br>🌱 I strongly believe in continuous learning and am always looking for opportunities to grow as a developer and expand my portfolio.<br><br>🌍 Outside of coding, I enjoy learning new things about technology, studying English, and exploring topics that help me grow both personally and professionally.</p>
+<p align="left">💻 As an <strong>Information Systems</strong> student at <strong>CESMAC</strong>, I am a developer focused on creating modern, responsive, and functional web interfaces through practical and academic projects.<br><br>🚀 I enjoy exploring web technologies and crafting intuitive user experiences, focusing on writing clear, efficient, and maintainable code that works seamlessly across different devices.<br><br>📚 Currently, I am deepening my knowledge in UI/UX best practices alongside core computer science foundations—such as object-oriented programming, data structures, and database systems—to build complete and scalable web applications.<br><br>🌱 I strongly believe in continuous learning and am always looking for opportunities to grow as a developer and expand my portfolio.<br><br>🌍 Outside of coding, I enjoy keeping up with web design and technology trends, studying English, and exploring topics that help me grow both personally and professionally.</p>
 
 ###
 
@@ -15,28 +15,40 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
+
+###
+
+<h2 align="left">Featured Projects</h2>
+
+###
+
+<p align="left">
+  🍔 <strong><a href="https://github.com/JoaoVictor5626/herosfoodmcz" target="_blank">Heros Food Mcz</a></strong> — Responsive landing page for a local burger shop in Maceió-AL, built with HTML5, CSS3, and Vanilla JavaScript as part of CESMAC's <em>Impulso Web</em> extension project.<br><br>
+  ♿ <strong><a href="https://github.com/JoaoVictor5626/sistema-de-apoio-e-acessibilidade" target="_blank">Sistema de Apoio e Acessibilidade</a></strong> — Web system focused on digital inclusion, providing adapted resources and information for different accessibility needs. Built with Node.js, Express, EJS, and MongoDB.<br><br>
+  🎓 <strong><a href="https://github.com/JoaoVictor5626/pojae" target="_blank">POJAE</a></strong> — Internship and Young Apprentice Opportunity Platform developed for CESMAC, integrating Software Engineering practices with a Java backend and HTML/Tailwind CSS frontend to connect students with companies.
+</p>
 
 ###
 
@@ -62,9 +74,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/JoaoVictor5626/JoaoVictor5626/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/JoaoVictor5626/JoaoVictor5626/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/JoaoVictor5626/JoaoVictor5626/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/JoaoVictor5626/JoaoVictor5626/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
-
